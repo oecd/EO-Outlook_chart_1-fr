@@ -611,8 +611,8 @@ width:175px;
   stroke:#979797;
   stroke-width: 0.25;
   font-family: 'Noto Sans', sans-serif;
-  font-weight: 100;
-  font-size: 1rem;
+  font-weight: 300;
+  font-size: 1.5rem;
   color: #0b1e2d;
   }
 
@@ -1049,12 +1049,18 @@ div.tooltip {
 
 .annotation-note-label{
    font-family: 'Oswald', sans-serif;
-      font-size: 1.5rem;
-      font-weight: 300;
+      font-size: 1.7rem;
+      font-weight: 400;
       fill: #090a0a;
 
 }
 
+@media only screen and (max-width: 750px) {
+
+.annotation-note-label{
+      font-size: 1.25rem;
+}
+}
 
 
 @media only screen and (max-width: 650px) {
@@ -1078,7 +1084,15 @@ div.tooltip {
 
 
 .annotation-note-label{
-      font-size: 0.8rem;
+      font-size: 1.1rem;
+}
+
+}
+
+@media only screen and (max-width: 500px) {
+
+.annotation-note-label{
+      font-size: 0.9rem;
 }
 
 }
