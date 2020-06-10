@@ -267,7 +267,7 @@
         }
         function launchViz(){
             updateChart();
-            //updateButton();
+            updateButton();
         }
 
         function render(err,scenario1Data,scenario2Data,pastForecasts,countryBut) {
@@ -319,62 +319,76 @@
             })
             return name;
         }
-        function updateButton(){
+
+        function updateButton() {
 
             var selButCountries = $('#country_dropdown').select2("val");
             if (typeof selButCountries[1] != "undefined") {
+                var linkExist1 = false, linkExist2 = false;
+                var exist1 = false, exist2 = false;
+                var count1 = 0; count2 = 0;
+
                 document.getElementById("countryNote1").style.display = "block";
                 document.getElementById("countryNote2").style.display = "block";
 
-                var exist1=false, exist2=false;
-                var count1=0;count2=0;
-                 countryNotes.forEach(function (d) {
-                     count1++;
+                countryNotes.forEach(function (d) {
+                    count1++;
                     if (d.ISO == selButCountries[0]) {
-                        document.getElementById("countryNote1").innerHTML = countryName(selCountries[0]) + " Note"; 
-                        document.getElementById("countryNote1").href = d.link_EN; 
-                        exist1=true;
+                        document.getElementById("countryNote1").innerHTML = "Note : "+countryName(selCountries[0]) ;
+                        document.getElementById("countryNote1").href = d.link_FR;
+                        exist1 = true;
+                        if (d.link_FR != "")
+                            linkExist1 = true;
                     }
-                     if (count1 == countryNotes.length) {
+                    if (count1 == countryNotes.length) {
 
-                         if (exist1 == false)
-                             document.getElementById("countryNote1").style.display = "none";
+                        if (exist1 == false || linkExist1 == false)
+                            document.getElementById("countryNote1").style.display = "none";
 
-                     }
+                    }
                 })
 
                 countryNotes.forEach(function (d) {
                     count2++
                     if (d.ISO == selButCountries[1]) {
-                        document.getElementById("countryNote2").innerHTML = countryName(selCountries[1] ) + " Note";
-                        document.getElementById("countryNote2").href = d.link_EN;
+                        document.getElementById("countryNote2").innerHTML = "Note : " + countryName(selCountries[1]) ;
+                        document.getElementById("countryNote2").href = d.link_FR;
                         exist2 = true;
+                        if (d.link_FR != "")
+                            linkExist2 = true;
                     }
-                    if (count2==countryNotes.length){
-                        if(exist2==false)
+                    if (count2 == countryNotes.length) {
+                        if (exist2 == false || linkExist2 == false)
                             document.getElementById("countryNote2").style.display = "none";
 
                     }
                 })
+
+
+
             }
 
-            else{
+            else {
                 var exist1 = false;
+                var linkExist1 = false;
                 var count1 = 0;
-                
+
                 document.getElementById("countryNote1").style.display = "block";
                 document.getElementById("countryNote2").style.display = "none";;
 
                 countryNotes.forEach(function (d) {
                     count1++
                     if (d.ISO == selButCountries[0]) {
-                        document.getElementById("countryNote1").innerHTML = countryName(selCountries[0]) + " Note";
-                        document.getElementById("countryNote1").href = d.link_EN;
+                        document.getElementById("countryNote1").innerHTML = "Note : " + countryName(selCountries[0]) ;
+                        
+                        document.getElementById("countryNote1").href = d.link_FR;
                         exist1 = true;
+                        if (d.link_FR != "")
+                            linkExist1 = true;
                     }
 
                     if (count1 == countryNotes.length) {
-                        if (exist1 == false)
+                        if (exist1 == false || linkExist1 == false)
                             document.getElementById("countryNote1").style.display = "none";
 
                     }
@@ -382,6 +396,7 @@
                 })
             }
         }
+    
         function updateChart(){
 
             scenario1SVG.selectAll("*").remove()
@@ -942,7 +957,7 @@
     initComparisons();
         $("#country_dropdown").change(function () {
             updateChart();
-           // updateButton();
+            updateButton();
         });
 
         $("#indicator_dropdown").change(function () {
