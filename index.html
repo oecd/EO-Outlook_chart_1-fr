@@ -102,7 +102,7 @@
         </div>
         <div  id="note" class="source">Les divergences pour T4-2019-T4 sont dues aux révisions des données et aux changements des années de base dans les comptes nationaux des pays.</div>
     <div class="flex-container" id="Downloadbanner">
-        <a class="toData" id="countryNote1" href="https://www.oecd-ilibrary.org/economics/oecd-economic-outlook/volume-2020/issue-1_0d1d1e2e-en" target="_blank">Notes par pays</a>
+        <a class="toData" id="countryNote1" href="https://www.oecd-ilibrary.org/sites/0d1d1e2e-en/index.html?itemId=/content/publication/0d1d1e2e-en" target="_blank">Notes par pays</a>
         <a class="toData" id="countryNote2" href="" target="_blank">Country Note</a>
         <a class="toData" id="snapshot" href="http://www.oecd.org/fr/economie/etudes/" target="_blank">Aperçus economiques</a>
     </div>
@@ -320,83 +320,89 @@
             return name;
         }
 
-        function updateButton() {
+    function updateButton() {
 
-            var selButCountries = $('#country_dropdown').select2("val");
-            if (typeof selButCountries[1] != "undefined") {
-                var linkExist1 = false, linkExist2 = false;
-                var exist1 = false, exist2 = false;
-                var count1 = 0; count2 = 0;
+        var selButCountries = $('#country_dropdown').select2("val");
+        if (typeof selButCountries[1] != "undefined") {
+            var linkExist1 = false, linkExist2 = false;
+            var exist1 = false, exist2 = false;
+            var count1 = 0; count2 = 0;
 
-                document.getElementById("countryNote1").style.display = "block";
-                document.getElementById("countryNote2").style.display = "block";
+            document.getElementById("countryNote1").style.display = "block";
+            document.getElementById("countryNote2").style.display = "block";
 
-                countryNotes.forEach(function (d) {
-                    count1++;
-                    if (d.ISO == selButCountries[0]) {
-                        document.getElementById("countryNote1").innerHTML = "Note : "+countryName(selCountries[0]) ;
-                        document.getElementById("countryNote1").href = d.link_FR;
-                        exist1 = true;
-                        if (d.link_FR != "")
-                            linkExist1 = true;
-                    }
-                    if (count1 == countryNotes.length) {
+            countryNotes.forEach(function (d) {
+                count1++;
+                if (d.ISO == selButCountries[0]) {
+                    document.getElementById("countryNote1").innerHTML =  "Note : " + countryName(selCountries[0]);
+                    document.getElementById("countryNote1").href = d.link_FR;
+                    exist1 = true;
 
-                        if (exist1 == false || linkExist1 == false)
-                            document.getElementById("countryNote1").style.display = "none";
+                    if (parseFloat(d.link_FR.length) > 0)
+                        linkExist1 = true;
+                }
+                if (count1 == countryNotes.length) {
 
-                    }
-                })
+                    if (exist1 == false)
+                        document.getElementById("countryNote1").style.display = "none";
 
-                countryNotes.forEach(function (d) {
-                    count2++
-                    if (d.ISO == selButCountries[1]) {
-                        document.getElementById("countryNote2").innerHTML = "Note : " + countryName(selCountries[1]) ;
-                        document.getElementById("countryNote2").href = d.link_FR;
-                        exist2 = true;
-                        if (d.link_FR != "")
-                            linkExist2 = true;
-                    }
-                    if (count2 == countryNotes.length) {
-                        if (exist2 == false || linkExist2 == false)
-                            document.getElementById("countryNote2").style.display = "none";
+                    if (linkExist1 == false)
+                        document.getElementById("countryNote1").style.display = "none";
+                }
+            })
 
-                    }
-                })
+            countryNotes.forEach(function (d) {
+                count2++
+                if (d.ISO == selButCountries[1]) {
+                    document.getElementById("countryNote2").innerHTML = "Note : " + countryName(selCountries[1]);
+                    document.getElementById("countryNote2").href = d.link_FR;
+                    exist2 = true;
+                    if (parseFloat(d.link_FR.length) > 0)
+                        linkExist2 = true;
+                }
+                if (count2 == countryNotes.length) {
+                    if (exist2 == false)
+                        document.getElementById("countryNote2").style.display = "none";
+                    if (linkExist2 == false)
+                        document.getElementById("countryNote2").style.display = "none";
+                }
+            })
 
 
 
-            }
-
-            else {
-                var exist1 = false;
-                var linkExist1 = false;
-                var count1 = 0;
-
-                document.getElementById("countryNote1").style.display = "block";
-                document.getElementById("countryNote2").style.display = "none";;
-
-                countryNotes.forEach(function (d) {
-                    count1++
-                    if (d.ISO == selButCountries[0]) {
-                        document.getElementById("countryNote1").innerHTML = "Note : " + countryName(selCountries[0]) ;
-                        
-                        document.getElementById("countryNote1").href = d.link_FR;
-                        exist1 = true;
-                        if (d.link_FR != "")
-                            linkExist1 = true;
-                    }
-
-                    if (count1 == countryNotes.length) {
-                        if (exist1 == false || linkExist1 == false)
-                            document.getElementById("countryNote1").style.display = "none";
-
-                    }
-
-                })
-            }
         }
-    
+
+        else {
+            var exist1 = false;
+            var linkExist1 = false;
+            var count1 = 0;
+
+            document.getElementById("countryNote1").style.display = "block";
+            document.getElementById("countryNote2").style.display = "none";;
+
+            countryNotes.forEach(function (d) {
+                count1++
+                if (d.ISO == selButCountries[0]) {
+                    document.getElementById("countryNote1").innerHTML = "Note : " + countryName(selCountries[0]);
+                    document.getElementById("countryNote1").href = d.link_FR;
+                    exist1 = true;
+
+                    if (parseFloat(d.link_FR.length) > 0)
+                        linkExist1 = true;
+                }
+
+                if (count1 == countryNotes.length) {
+                    if (exist1 == false)
+                        document.getElementById("countryNote1").style.display = "none";
+                    if (linkExist1 == false)
+                        document.getElementById("countryNote1").style.display = "none";
+
+                }
+
+            })
+        }
+    }
+
         function updateChart(){
 
             scenario1SVG.selectAll("*").remove()
