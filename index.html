@@ -239,21 +239,25 @@
             // document.getElementById("indicator_dropdown").innerHTML = "<option value=\"-\" selected=\"selected\"> - </option>";
             var count=0;
             data.forEach(function (d) {
-                var x = document.getElementById("indicator_dropdown");
-                var option = document.createElement("option");
-                option.value = d.values[0].VARIABLE;
 
-                var indicName = d.key;
-                if (d.key == "Produit intérieur brut, en volume, croissance")
-                    indicName = "Taux de croissance du PIB, évolution par rapport à la période précédente"
 
-                if (d.key == "Taux de chômage")
-                    indicName = "Taux de chômage, % de la population active"
+                if (d.key != "Taux de chômage") { ///////////////// CONDITION TO REMOVE ONCE DATA ARE FIXED////////////////////////////////////////////////////
+                    var x = document.getElementById("indicator_dropdown");
+                    var option = document.createElement("option");
+                    option.value = d.values[0].VARIABLE;
 
-                option.innerHTML = indicName;
-                if (d.key == "Produit intérieur brut, en volume, croissance")
-                    option.selected = "selected";
-                x.appendChild(option);
+                    var indicName = d.key;
+                    if (d.key == "Produit intérieur brut, en volume, croissance")
+                        indicName = "Taux de croissance du PIB, évolution par rapport à la période précédente"
+
+                    if (d.key == "Taux de chômage")
+                        indicName = "Taux de chômage, % de la population active"
+
+                    option.innerHTML = indicName;
+                    if (d.key == "Produit intérieur brut, en volume, croissance")
+                        option.selected = "selected";
+                    x.appendChild(option);
+                }
                 count++;
                 if(count==data.length){
                     
