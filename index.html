@@ -241,7 +241,7 @@
             data.forEach(function (d) {
 
 
-                if (d.key != "Taux de chômage") { ///////////////// CONDITION TO REMOVE ONCE DATA ARE FIXED////////////////////////////////////////////////////
+               // if (d.key != "Taux de chômage") { ///////////////// CONDITION TO REMOVE ONCE DATA ARE FIXED////////////////////////////////////////////////////
                     var x = document.getElementById("indicator_dropdown");
                     var option = document.createElement("option");
                     option.value = d.values[0].VARIABLE;
@@ -257,7 +257,7 @@
                     if (d.key == "Produit intérieur brut, en volume, croissance")
                         option.selected = "selected";
                     x.appendChild(option);
-                }
+              //  }
                 count++;
                 if(count==data.length){
                     

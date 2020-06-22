@@ -87,9 +87,9 @@
 "ITA"	"Italie"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"			9.93918373298366		
 "ITA"	"Italie"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"			9.79687977455607		
 "ITA"	"Italie"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"			9.72697482406381		
-"ITA"	"Italie"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"			9.7269748240638		
-"ITA"	"Italie"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"			9.72697482406381		
-"ITA"	"Italie"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"			11.087874701088		
+"ITA"	"Italie"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"			8.52947551050547		
+"ITA"	"Italie"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"			8.52947551050547		
+"ITA"	"Italie"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"			10.8048616918362		
 "ITA"	"Italie"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"			12.4282584995641		
 "ITA"	"Italie"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"			12.2531150165632		
 "ITA"	"Italie"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"			11.9911840166126		
@@ -159,22 +159,22 @@
 "GBR"	"Royaume-Uni"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2016"	"2016"	21.7806393469944		
 "GBR"	"Royaume-Uni"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2016"	"2016"	8.70095273126803		
 "GBR"	"Royaume-Uni"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2016"	"2016"	6.19166326086735		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	6.09405117936943		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	4.39588682479007		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	5.46047215652777		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	4.18616075437514		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	7.96994512378807		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	3.10239930798453		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	3.68243498307954		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	2.73436344678952		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	-1.55334825783618		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	-47.651437180799		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	20.4428184111446		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	-23.5546093312321		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	20.1816570273521		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	12.4428719808675		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	10.308414633602		
-"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2005"	"2005"	7.04846860112997		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	6.09405117936943		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	4.39588682479007		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	5.46047215652777		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	4.18616075437514		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	7.96994512378807		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	3.10239930798453		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	3.68243498307954		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	2.73436344678952		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-1.55334825783618		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-47.651437180799		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	20.4428184111446		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-23.5546093312321		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	20.1816570273521		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	12.4428719808675		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	10.308414633602		
+"HUN"	"Hongrie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	7.04846860112997		
 "CHL"	"Chili"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2013"	"2013"	5.11227370564202		
 "CHL"	"Chili"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2013"	"2013"	3.64583925064955		
 "CHL"	"Chili"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2013"	"2013"	-0.45906270475567		
@@ -239,22 +239,22 @@
 "DEU"	"Allemagne"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"			5.39118611286463		
 "DEU"	"Allemagne"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"			5.14171171497009		
 "DEU"	"Allemagne"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"			4.90568528682064		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	3.51435361740305		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	4.57326090051735		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	3.89464773815826		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	1.89694271411707		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	2.56121152638985		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	1.51364659930594		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	1.60863985850026		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	2.44322233803232		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	-19.6893756039003		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	-35.8102303788904		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	21.5867392974653		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	-18.9888707759305		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	13.3312718901398		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	10.4616751727321		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	8.70592184599879		
-"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	6.11657618736284		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	3.51435361740305		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	4.57326090051735		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	3.89464773815826		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	1.89694271411707		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	2.56121152638985		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	1.51364659930594		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	1.60863985850026		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	2.44322233803232		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-19.6893756039003		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-35.8102303788904		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	21.5867392974653		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-18.9888707759305		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	13.3312718901398		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	10.4616751727321		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	8.70592184599879		
+"SVK"	"République slovaque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	6.11657618736284		
 "CZE"	"République tchèque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	1.98535764369525		
 "CZE"	"République tchèque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	2.37664669300972		
 "CZE"	"République tchèque"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	2.54720853723169		
@@ -447,22 +447,22 @@
 "NZL"	"Nouvelle-Zélande"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2009_10"	"2009-10"	10.8625395043132		
 "NZL"	"Nouvelle-Zélande"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2009_10"	"2009-10"	12.0156830991392		
 "NZL"	"Nouvelle-Zélande"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2009_10"	"2009-10"	10.7145759213669		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	3.66032394278606		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	3.18713252744254		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	1.25754804875336		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	0.625891493056412		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	1.73202164408294		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	2.39173305542296		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	2.17985609019283		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	2.06311228863637		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	-1.21785128316204		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	-39.4730647052694		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	29.0852703968907		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	-13.7502567301954		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	9.10182825923069		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	5.82226656533323		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	3.70461157362863		
-"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2016_17"	"2016-17"	2.80338853543207		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	3.66032394278606		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	3.18713252744254		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	1.25754804875336		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	0.625891493056412		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	1.73202164408294		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	2.39173305542296		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	2.17985609019283		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	2.06311228863637		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	-1.21785128316204		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	-39.4730647052694		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	29.0852703968907		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	-13.7502567301954		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	9.10182825923069		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	5.82226656533323		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	3.70461157362863		
+"AUS"	"Australie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2017_18"	"2017-18"	2.80338853543207		
 "FRA"	"France"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"			9.20135145411081		
 "FRA"	"France"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"			9.09133738726595		
 "FRA"	"France"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"			9.01897619436596		
@@ -495,22 +495,22 @@
 "LUX"	"Luxembourg"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	7.05771586541191		
 "LUX"	"Luxembourg"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	6.22682278064806		
 "LUX"	"Luxembourg"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	4.94404375007207		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	3.22403723327599		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	1.03879376176123		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	1.20716619701091		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	3.32935099364804		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	2.90499528106587		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	-0.291935127244888		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	0.0618151522161711		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	0.0531063157588042		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	-9.86591474835213		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	-32.6120742319045		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	26.4477226642895		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	-12.6572071949132		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	14.3518653993226		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	7.80247952638351		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	4.20195842648171		
-"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	0.00786496477250869		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	3.22403723327599		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	1.03879376176123		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	1.20716619701091		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	3.32935099364804		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	2.90499528106587		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-0.291935127244888		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	0.0618151522161711		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	0.0531063157588042		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-9.86591474835213		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-32.6120742319045		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	26.4477226642895		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-12.6572071949132		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	14.3518653993226		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	7.80247952638351		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	4.20195842648171		
+"AUT"	"Autriche"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	0.00786496477250869		
 "POL"	"Pologne"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"			4.06333682617301		
 "POL"	"Pologne"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"			3.84190642255158		
 "POL"	"Pologne"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"			3.85446475500788		
@@ -567,9 +567,9 @@
 "EA17"	"Zone euro (17 pays)"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"			7.58584256306813		
 "EA17"	"Zone euro (17 pays)"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"			7.54576780964967		
 "EA17"	"Zone euro (17 pays)"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"			7.38459386056231		
-"EA17"	"Zone euro (17 pays)"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"			7.41733093324688		
-"EA17"	"Zone euro (17 pays)"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"			10.1501535340143		
-"EA17"	"Zone euro (17 pays)"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"			11.1441343910544		
+"EA17"	"Zone euro (17 pays)"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"			7.22824401128997		
+"EA17"	"Zone euro (17 pays)"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"			9.96722697393706		
+"EA17"	"Zone euro (17 pays)"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"			11.0899435977877		
 "EA17"	"Zone euro (17 pays)"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"			12.6108481628678		
 "EA17"	"Zone euro (17 pays)"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"			11.9377414454454		
 "EA17"	"Zone euro (17 pays)"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"			11.2217257187804		
@@ -607,22 +607,22 @@
 "EA17"	"Zone euro (17 pays)"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	11.6438350511483		
 "EA17"	"Zone euro (17 pays)"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	6.09032313269058		
 "EA17"	"Zone euro (17 pays)"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	4.16154709156379		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	5.54596929489487		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	5.49319041304836		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	5.43065333125739		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	5.44551577879698		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	5.50106481551785		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	5.40166986571093		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	5.381822022722		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	5.26272003976251		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	5.3514566124962		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	11.4302321382064		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	10.645752200657		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	12.5974228467165		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	11.1145107030979		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	10.0603969251075		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	9.42056048524385		
-"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	8.89767771774176		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"			5.54596929489487		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"			5.49319041304836		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"			5.43065333125739		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"			5.44551577879698		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"			5.50106481551785		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"			5.40166986571093		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"			5.381822022722		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"			5.26272003976251		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"			5.30429857771247		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"			11.3854257613217		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"			10.6319268591345		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"			12.5974228467165		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"			11.1145107030979		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"			10.0603969251075		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"			9.42056048524385		
+"OTO"	"OCDE - Total"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"			8.89767771774176		
 "ESP"	"Espagne"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	1.98157926513808		
 "ESP"	"Espagne"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	2.19876314347844		
 "ESP"	"Espagne"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	2.02230581600761		
@@ -799,22 +799,22 @@
 "ISR"	"Israël"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"			9.69065921246079		
 "ISR"	"Israël"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"			8.25146653058768		
 "ISR"	"Israël"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"			6.78005365195681		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	0.0235628549195515		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	-0.0493445199453776		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	-0.301962612722522		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	0.617396511260718		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	0.869476585758094		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	0.293101422704985		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	0.102200517031895		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	-0.967082796963304		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	-19.6053701723642		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	-51.7734949740698		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	61.2352369523567		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	-27.7665217339515		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	30.700221876873		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	13.3224227451654		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	6.24901038358297		
-"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	4.45399400035039		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	0.0235628549195515		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-0.0493445199453776		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-0.301962612722522		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	0.617396511260718		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	0.869476585758094		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	0.293101422704985		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	0.102200517031895		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-0.967082796963304		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-19.6053701723642		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-51.7734949740698		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	61.2352369523567		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-27.7665217339515		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	30.700221876873		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	13.3224227451654		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	6.24901038358297		
+"ITA"	"Italie"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	4.45399400035039		
 "FIN"	"Finlande"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	3.09520086658983		
 "FIN"	"Finlande"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	-0.588724300181109		
 "FIN"	"Finlande"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2010"	"2010"	-0.487583387250189		
@@ -959,38 +959,38 @@
 "LUX"	"Luxembourg"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"			8.72137549900275		
 "LUX"	"Luxembourg"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"			8.60971948050145		
 "LUX"	"Luxembourg"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"			8.33353164634196		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	2.01917199377038		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	2.32307678230151		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	1.27983601840212		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	0.997855130304431		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	2.58458109197712		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	1.64658690698113		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	1.61383878342888		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	0.62637009144299		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-7.08641015368831		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-43.1139047263526		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	29.3512692913516		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	-16.5920719252823		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	14.463846444647		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	9.79432183655272		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	5.77211867609012		
-"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2015"	"2015"	3.86519729943571		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	1.77031388305773		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	3.10956361397153		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	-1.76952696517193		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	4.79920246306116		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	0.838000472889518		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	0.249527825821484		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	0.988091345305203		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	-0.0927683508545332		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	0.488207685263745		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	-36.7044863311624		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	6.98310452652217		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	-11.1852684783248		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	9.63236736062536		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	7.88144510709893		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	6.35111338633919		
-"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2017"	"2017"	4.04236810044753		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"			2.01917199377038		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"			2.32307678230151		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"			1.27983601840212		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"			0.997855130304431		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"			2.58458109197712		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"			1.64658690698113		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"			1.61383878342888		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"			0.62637009144299		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"			-7.08641015368831		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"			-43.1139047263526		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"			29.3512692913516		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"			-16.5920719252823		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"			14.463846444647		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"			9.79432183655272		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"			5.77211867609012		
+"OTO"	"OCDE - Total"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"			3.86519729943571		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	1.77031388305773		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	3.10956361397153		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	-1.76952696517193		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2018-Q4"	"T4-2018"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	4.79920246306116		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q1"	"T1-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	0.838000472889518		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q2"	"T2-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	0.249527825821484		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q3"	"T3-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	0.988091345305203		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2019-Q4"	"T4-2019"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	-0.0927683508545332		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q1"	"T1-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	0.488207685263745		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q2"	"T2-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	-36.7044863311624		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q3"	"T3-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	6.98310452652217		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2020-Q4"	"T4-2020"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	-11.1852684783248		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q1"	"T1-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	9.63236736062536		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q2"	"T2-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	7.88144510709893		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q3"	"T3-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	6.35111338633919		
+"SWE"	"Suède"	"GDPV_ANNPCT"	"Produit intérieur brut, en volume, croissance"	"Q"	"Trimestrielle"	"2021-Q4"	"T4-2021"	"PC"	"Pourcentage"	"0"	"Unités"	"2019"	"2019"	4.04236810044753		
 "BEL"	"Belgique"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q1"	"T1-2018"	"PC"	"Pourcentage"	"0"	"Unités"			6.1		
 "BEL"	"Belgique"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q2"	"T2-2018"	"PC"	"Pourcentage"	"0"	"Unités"			6.23333333333334		
 "BEL"	"Belgique"	"UNR"	"Taux de chômage"	"Q"	"Trimestrielle"	"2018-Q3"	"T3-2018"	"PC"	"Pourcentage"	"0"	"Unités"			5.73333333333333		
